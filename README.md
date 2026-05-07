@@ -1,2 +1,1 @@
-# Hidrogeles
-Taller: Estimación de tasas de liberación de fármacos por hidrogeles
+# Taller: Estimación de tasas de liberación de fármacos por hidrogeles
