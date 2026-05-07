@@ -32,6 +32,13 @@ $$
 x\left( t\right) =\beta \left( 1-e^{-kt}\right)
 $$
 
+## Regresión no lineal
+La regresión no lineal se basa en el método de mínimos cuadrados, permite ajustar modelos complejos a conjuntos de datos experimentales con diversas variables dependientes e independientes, además de distintos parámetros que describen las relaciones entre ellas; funciona mediante un enfoque iterativo y se debe elegir una estimación inicial para el valor de cada parámetro.
+
+$$
+\dsum\limits_{i=1}^{n}\left[ x_{i}-f\left( \hat{x}_{i},\mathbf{\rho }\right) \right] ^{2}.
+$$
+
 ## Referencias
 
 \[1] M. A. González‐Ayón, J.A. Sañudo‐Barajas, L.A. Picos‐Corrales, & A. Licea‐Claverie, "PNVCL‐PEGMA nanohydrogels with tailored transition temperature for controlled delivery of 5‐fluorouracil", Journal of Polymer Science Part A: Polymer Chemistry, vol. 53, issue 22, pp. 2662-2672, Aug 2015. DOI: https://doi.org/10.1002/pola.27766
