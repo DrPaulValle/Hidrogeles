@@ -21,9 +21,11 @@ La estimación de la tasa de liberación de un fármaco es importante porque per
 
 ## Modelos para ajustar a los datos experimentales: Farmacocinética de primer orden
 Ecuación diferencial ordinaria de primer orden:
+
 $$
 x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
 $$
+
 Función: 
 
 ## Referencias
