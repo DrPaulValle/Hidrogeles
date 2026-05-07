@@ -36,7 +36,7 @@ $$
 La regresión no lineal se basa en el método de mínimos cuadrados, permite ajustar modelos complejos a conjuntos de datos experimentales con diversas variables dependientes e independientes, además de distintos parámetros que describen las relaciones entre ellas; funciona mediante un enfoque iterativo y se debe elegir una estimación inicial para el valor de cada parámetro.
 
 $$
-\dsum\limits_{i=1}^{n}\left[ x_{i}-f\left( \hat{x}_{i},\mathbf{\rho }\right) \right] ^{2}.
+\sum\limits_{i=1}^{n}\left[ x_{i}-f\left( \hat{x}_{i},\mathbf{\rho }\right) \right] ^{2}.
 $$
 
 ## Referencias
