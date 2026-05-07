@@ -19,6 +19,13 @@ Determinar la tasa de liberación del hidrogel N36-2MBA3 con base en los datos e
 Un hidrogel es un material formado por redes tridimensionales de polímeros hidrófilos capaces de absorber y retener grandes cantidades de agua sin disolverse. Debido a su alta biocompatibilidad y similitud con tejidos biológicos, los hidrogeles son ampliamente utilizados en aplicaciones biomédicas como liberación controlada de fármacos, ingeniería de tejidos y sistemas de administración terapéutica.
 La estimación de la tasa de liberación de un fármaco es importante porque permite comprender y predecir cómo el medicamento es liberado desde el hidrogel hacia el organismo a lo largo del tiempo. Esto ayuda a diseñar tratamientos más eficientes y seguros, optimizando la dosis, reduciendo efectos secundarios y garantizando concentraciones terapéuticas adecuadas durante periodos prolongados. Además, el modelado matemático de la liberación permite comparar formulaciones, ajustar parámetros cinéticos y desarrollar sistemas inteligentes de administración controlada de medicamentos.
 
+## Modelos para ajustar a los datos experimentales: Farmacocinética de primer orden
+Ecuación diferencial ordinaria de primer orden:
+$$
+x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+$$
+Función: 
+
 ## Referencias
 
 \[1] M. A. González‐Ayón, J.A. Sañudo‐Barajas, L.A. Picos‐Corrales, & A. Licea‐Claverie, "PNVCL‐PEGMA nanohydrogels with tailored transition temperature for controlled delivery of 5‐fluorouracil", Journal of Polymer Science Part A: Polymer Chemistry, vol. 53, issue 22, pp. 2662-2672, Aug 2015. DOI: https://doi.org/10.1002/pola.27766
