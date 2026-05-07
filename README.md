@@ -23,10 +23,14 @@ La estimación de la tasa de liberación de un fármaco es importante porque per
 Ecuación diferencial ordinaria de primer orden:
 
 $$
-x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+\dot{x}=k\left( \beta -x\right)
 $$
 
-Función: 
+Función del tiempo: 
+
+$$
+x\left( t\right) =\beta \left( 1-e^{-kt}\right)
+$$
 
 ## Referencias
 
