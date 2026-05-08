@@ -2,8 +2,10 @@
 # Taller: Estimación de tasas de liberación de fármacos por hidrogeles
 <img width="1536" height="1024" alt="ChatGPT Image May 7, 2026, 12_43_10 PM" src="https://github.com/user-attachments/assets/d2d6f71e-fe25-467d-a153-cd84d1068c9a" />
 
-## Docente
-Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
+## Instructor
+Dr. Paul Antonio Valle Trujillo
+paul.valle@tectijuana.edu.mx
+https://biomath.xyz/
 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México.
 
