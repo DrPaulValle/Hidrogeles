@@ -55,4 +55,4 @@ $$
 
 \[5] Bryan, Kurt. Differential equations: A toolbox for modeling the world. Simiode, 2022. Permalink: https://www.simiode.org/resources/8307.
 
-\[6] MathWorks. (n.d.) fitnlm Fit nonlinear regression model [Online]. Available: [https://www.mathworks.com/discovery/dynamic-systems.html](https://www.mathworks.com/help/stats/fitnlm.html).
+\[6] MathWorks. (n.d.) fitnlm Fit nonlinear regression model [Online]. Available: https://www.mathworks.com/help/stats/fitnlm.html.
