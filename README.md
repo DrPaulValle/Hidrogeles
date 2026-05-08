@@ -51,4 +51,6 @@ $$
 
 \[4] Garfinkel, Alan, Jane Shevtsov, and Yina Guo. Modeling life: the mathematics of biological systems. Springer International Publishing AG, 2017.
 
-\[5] Bryan, Kurt. Differential equations: A toolbox for modeling the world. Simiode, 2022. Permalink: https://www.simiode.org/resources/8307 
+\[5] Bryan, Kurt. Differential equations: A toolbox for modeling the world. Simiode, 2022. Permalink: https://www.simiode.org/resources/8307
+
+\[6] MathWorks. (n.d.) fitnlm Fit nonlinear regression model [Online]. Available: [https://www.mathworks.com/discovery/dynamic-systems.html](https://www.mathworks.com/help/stats/fitnlm.html).
