@@ -25,13 +25,13 @@ La estimación de la tasa de liberación de un fármaco es importante porque per
 Ecuación diferencial ordinaria de primer orden:
 
 $$
-\dot{x}=k\left( \beta -x\right)
+\dot{x}=k\left( \beta -x\right).
 $$
 
 Función del tiempo: 
 
 $$
-x\left( t\right) =\beta \left( 1-e^{-kt}\right)
+x\left( t\right) =\beta \left( 1-e^{-kt}\right).
 $$
 
 ## Regresión no lineal
