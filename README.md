@@ -47,10 +47,10 @@ $$
 
 \[2] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
 
-\[3] Slavkova, K. P., Patel, S. H., Cacini, Z., Kazerouni, A. S., Gardner, A. L., Yankeelov, T. E., & Hormuth, D. A. (2023). Mathematical modelling of the dynamics of image-informed tumor habitats in a murine model of glioma. Scientific reports, 13(1), 2916. DOI: https://doi.org/10.1038/s41598-023-30010-6
+\[3] Slavkova, K. P., Patel, S. H., Cacini, Z., Kazerouni, A. S., Gardner, A. L., Yankeelov, T. E., & Hormuth, D. A. (2023). Mathematical modelling of the dynamics of image-informed tumor habitats in a murine model of glioma. Scientific reports, 13(1), 2916. DOI: https://doi.org/10.1038/s41598-023-30010-6.
 
 \[4] Garfinkel, Alan, Jane Shevtsov, and Yina Guo. Modeling life: the mathematics of biological systems. Springer International Publishing AG, 2017.
 
-\[5] Bryan, Kurt. Differential equations: A toolbox for modeling the world. Simiode, 2022. Permalink: https://www.simiode.org/resources/8307
+\[5] Bryan, Kurt. Differential equations: A toolbox for modeling the world. Simiode, 2022. Permalink: https://www.simiode.org/resources/8307.
 
 \[6] MathWorks. (n.d.) fitnlm Fit nonlinear regression model [Online]. Available: [https://www.mathworks.com/discovery/dynamic-systems.html](https://www.mathworks.com/help/stats/fitnlm.html).
